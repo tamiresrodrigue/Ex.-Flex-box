@@ -1,0 +1,6 @@
+.manicuri{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    color: 200px;
+}
