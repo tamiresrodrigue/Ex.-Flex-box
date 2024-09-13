@@ -1,4 +1,16 @@
 .pai-de-todos{
     display: flex;
     flex-direction: row;
+    gap: 20px;
+}
+.pai-de-todos .equipe{
+    width: 200px;
+    background: #5a5a5a;
+    color: #fff;
+    padding: 20px;
+}
+.pai-de-todos .equipe img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover; /* manter sua proporção, não fica achatado*/
 }
