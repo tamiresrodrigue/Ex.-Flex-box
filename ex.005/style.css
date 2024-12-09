@@ -1,4 +1,10 @@
-.pai-de-todos{
+.rodape{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 40px;
+}
+.rodape .coluna{
+    display: flex;
+    flex-direction: column;
+
 }

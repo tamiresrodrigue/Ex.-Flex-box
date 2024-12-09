@@ -1,0 +1,17 @@
+.produtos{
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.produtos .card-produto{
+    width: 300px;
+    background: #222;
+    color: #fff;
+    flex-direction: column;
+}
+
+.produtos .card-produto .img{
+     width: 100%;
+}

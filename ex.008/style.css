@@ -1,0 +1,12 @@
+.sevicos{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+ }
+ .servicos .servico{
+    width: 250px;
+    background: #999;
+}
+.servicos .servico img{
+    width: 100% ;
+}
